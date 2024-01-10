@@ -1,6 +1,9 @@
-### Hi there 👋
-I'm a first year student at IIT Mandi
-
+![Header](./github-header-image.png)
+<br>
+<ul>
+  <li> 👨‍🎓 I'm a first year student at IIT Mandi</li>
+  <li> 🔭 I’m currently working on Chatbot creator</li>
+</ul>
 <!--
 **AkshatJha0411/AkshatJha0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
