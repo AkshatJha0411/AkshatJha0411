@@ -5,7 +5,7 @@
   <li> 🌱 I’m currently enhancing my Data Science skills with Python (at college) and learning MERN stack with Typescript (Personal goal)</li>
   <li> 💬 Ask me about: React, Javascript and Python </li>
 </ul>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Web developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
