@@ -1,11 +1,11 @@
 ![Header](./github-header-image.png)
 <br>
 <ul>
-  <li> 👨‍🎓 I'm a first year student at IIT Mandi</li>
-  <li> 🌱 I’m currently enhancing my Data Science skills with Python (at college) and learning MERN stack with Typescript (Personal goal)</li>
-  <li> 💬 Ask me about: React, Javascript and Python </li>
+  <li> 👨‍🎓 I'm a second year student at IIT Mandi</li>
+<!--   <li> 🌱 I’m currently enhancing my Data Science skills with Python (at college) and learning MERN stack with Typescript (Personal goal)</li> -->
+  <li> 💬 Ask me about: React, Javascript, Python (Data Science), AWS, Django, SQL and NoSQL databases</li>
 </ul>
-<h3 align="center">A Passionate Web developer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
