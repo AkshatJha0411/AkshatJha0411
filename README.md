@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Jha</h1>
 <h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatjha0411&label=Profile%20views&color=0e75b6&style=flat" alt="akshatjha0411" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatjha0411" alt="akshatjha0411" /></a> </p>
-
-<a href="https://app.daily.dev/iakshatjha"><img src="https://api.daily.dev/devcards/v2/dbeUJAPzswbsHXlpb23r5.png?type=default&r=zca" width="356" alt="Akshat Jha's Dev Card"/></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iakshatjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iakshatjha" height="30" width="40" /></a>
@@ -19,9 +12,20 @@
 <a href="https://auth.geeksforgeeks.org/user/akshat0091/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshat0091/profile" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatjha0411&label=Profile%20views&color=0e75b6&style=flat" alt="akshatjha0411" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatjha0411&show_icons=true&locale=en&layout=compact" alt="akshatjha0411" /></p>
 
+
+<a href="https://app.daily.dev/iakshatjha"><img src="https://api.daily.dev/devcards/v2/dbeUJAPzswbsHXlpb23r5.png?type=default&r=zca" width="356" alt="Akshat Jha's Dev Card"/></a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatjha0411" alt="akshatjha0411" /></a> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatjha0411&show_icons=true&locale=en" alt="akshatjha0411" /></p>
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h3>Backend and DevOps</h3>
