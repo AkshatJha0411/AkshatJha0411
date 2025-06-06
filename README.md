@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatjha0411" alt="akshatjha0411" /></a> </p>
 
-
+<a href="https://app.daily.dev/iakshatjha"><img src="https://api.daily.dev/devcards/v2/dbeUJAPzswbsHXlpb23r5.png?type=default&r=zca" width="356" alt="Akshat Jha's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
